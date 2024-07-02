@@ -94,11 +94,6 @@ The script prints various outputs at different stages, including:
 - Content after text preprocessing.
 - Model accuracy.
 
-### Contributing
-
-Contributions are welcome! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to contribute to this project.
-
-
 ### Contact
 
 For any questions or suggestions, feel free to reach out to:
